@@ -2,7 +2,7 @@
 
 ##Welcome
 This is the project help you to achieve screenshot function on android.
-The thoery of this function is baseed on shell command "/system/bin/screencap -p "
+The thoery of this function is based on shell command "/system/bin/screencap -p "
 
 ##Get Start
 
